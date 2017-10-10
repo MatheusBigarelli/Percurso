@@ -1,5 +1,6 @@
 package utfpr.dainf.ct.ed.exemplo;
-package arvorebinaria;
+
+
 import java.util.LinkedList;
 import java.util.Stack;
 
